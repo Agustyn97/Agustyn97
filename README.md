@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi word, I'm Agustin Zarandon, this is my portfolio where you will find all my work.
+### Hello word, I'm Agustin Zarandon, this is my portfolio where you will find all my work.
 ### Thank you for reading
 
 <!--
