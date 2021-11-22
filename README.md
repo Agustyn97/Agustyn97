@@ -1,4 +1,6 @@
 ### Hi there 👋
+### Hi word, I'm Agustin Zarandon, this is my portfolio where you will find all my work.
+### Thank you for reading
 
 <!--
 **Agustyn97/Agustyn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
